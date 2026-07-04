@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sagarsrivastava0401@gmail.com**
 
-- 📄 Know about my experiences [: https://portfolio-main-git-main-sagar-0401s-projects.vercel.app/](: https://portfolio-main-git-main-sagar-0401s-projects.vercel.app/)
+- 📄 Know about my experiences [: https://portfolio-main-git-main-sagar-0401s-projects.vercel.app/]
 
 - ⚡ Fun fact **I love Singing and playing Guitar**
 
